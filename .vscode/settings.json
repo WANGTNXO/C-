@@ -1,0 +1,12 @@
+{
+    "terminal.explorerKind": "external",
+    "extensions.autoUpdate": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.fontSize": 18,
+    "debug.console.fontSize": 18,
+    "editor.fontFamily": "Fira code, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "files.encoding": "gbk",
+    "editor.mouseWheelZoom": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+}
