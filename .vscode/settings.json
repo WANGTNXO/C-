@@ -8,5 +8,5 @@
     "editor.fontLigatures": true,
     "files.encoding": "gbk",
     "editor.mouseWheelZoom": true,
-    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled", 
 }
